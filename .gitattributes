@@ -1,2 +1,1 @@
-* linguist-vendored
-*.inc linguist-vendored=false
+*.inc diff=sourcepawn
